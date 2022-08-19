@@ -1,0 +1,20 @@
+<button><i class="fa-solid fa-chevron-left"></i></button>
+
+
+ 
+            <div class="card">
+                <div class="imgc">
+                    <img class="ic" src="https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648">
+                </div>
+                <div class="imgh">
+                    <h3>C++</h3>
+                </div>
+            </div>
+            <div class="card">
+                <div class="imgc">
+                    <img class="ic" src="">
+                </div>
+                <div class="imgh">
+                    <h3>Android Developement</h3>
+                </div>
+            </div>
